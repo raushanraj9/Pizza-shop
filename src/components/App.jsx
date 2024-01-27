@@ -14,7 +14,7 @@ function App() {
         <MainSection />
         <hr />
         <h1 className="my-2 text-center font-bold">
-          Assignment by: Aman Verma
+          Created with ❤️ by Raushan Raj
         </h1>
       </div>
     </Provider>
